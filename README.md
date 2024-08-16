@@ -6,9 +6,9 @@ Classification models are :
 
 
 
-model_scores = {
-    'Logistic Regression': log_reg_accuracy,
-    'Decision Tree Classifier': Dtree_accuracy,
-    'Random Forest Classifier': rfc_accuracy,
-    'Gradient Boosting Classifer': gbc_accuracy
+
+    'Logistic Regression': y,
+    'Decision Tree Classifier',
+    'Random Forest Classifier',
+    'Gradient Boosting Classifer'
 }
